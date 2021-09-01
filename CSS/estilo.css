@@ -1,0 +1,36 @@
+@font-face{
+    font-family: "fuente1";
+    src: url("../fonts/aAngkatanBersenjata.ttf");
+}
+
+.cuadro{
+    background-color: rgb(136, 66, 66);
+    margin-top: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-family: "fuente1";
+}
+.cuadro2{
+    background-color: rgb(212, 211, 211);
+    margin-top: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-family: "fuente1";
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.centrado{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.fondoFila{
+    background-color: rgb(136, 66, 66);
+}
+
+.titulo{
+    font-size: 80px;
+}
+
